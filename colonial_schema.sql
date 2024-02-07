@@ -516,6 +516,9 @@ GROUP BY Customernum
 HAVING COUNT(customernum)>1);
 
 
+#Graded: 15/15. Please Merge pull request.
+
+
 #Rewiew Chp 2 , 7
 #A primary key is a value that identifys a row in a set of data that is in multiple tables. 
 #Guide > guidenum

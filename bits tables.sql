@@ -289,6 +289,7 @@ WHERE Consultant.FirstName = 'Christopher' AND Consultant.LastName = 'Turner';
 #Question 11
 # They could add E-mail and Phone Number rows 
 
+#Good job. Graded 15/15
 
 
 

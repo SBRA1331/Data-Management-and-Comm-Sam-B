@@ -1,5 +1,6 @@
 USE Sports;
 
+
 CREATE TABLE Patient (
     PatientNum CHAR(4) PRIMARY KEY,
     LastName CHAR(15),
@@ -307,3 +308,4 @@ WHERE Patient.FirstName = 'Joseph' AND Patient.LastName = 'Baptist';
 #customers decide between the different therapist more easily.
 #You could also add a level of education row in the Therapsit table
  
+ #Graded: 15/15. Please Merge pull request.
